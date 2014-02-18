@@ -1,0 +1,32 @@
+[
+    {
+        "director_name": "DEF",
+        "movie_name": "-",
+        "location":"New york"
+    },
+    {
+        "director_name": "LMN",
+        "movie_name": "-",
+        "location":"New york"
+    },
+    {
+        "director_name": "UVW",
+        "movie_name": "-",
+        "location":"Las Vegas"
+    },
+    {
+        "director_name": "XYZ",
+        "movie_name": "-",
+        "location":"Las Vegas"
+    },
+    {
+        "director_name": "PQR",
+        "movie_name": "-",
+        "location":"LA"
+    },
+    {
+        "director_name": "ABC",
+        "movie_name": "-",
+        "location":"LA"
+    }
+]
